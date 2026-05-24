@@ -1,0 +1,15 @@
+{
+  "name": "rr-fluff/cms-plugin",
+  "type": "library",
+  "require": {
+    "php": ">=7.4",
+    "symfony/http-foundation": "4.4.0",
+    "twig/twig": "2.12.0",
+    "doctrine/orm": "2.7.0",
+    "guzzlehttp/guzzle": "6.5.0",
+    "monolog/monolog": "1.25.0",
+    "phpoffice/phpspreadsheet": "1.10.0",
+    "phpmailer/phpmailer": "6.1.0",
+    "league/flysystem": "1.0.0"
+  }
+}
